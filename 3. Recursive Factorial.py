@@ -47,7 +47,7 @@ def factorial_trace(n):
 
 
 
-# Main Execution
+# Main Execution 
 
 n = int(input("Enter a number: "))
 

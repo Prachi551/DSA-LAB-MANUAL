@@ -14,7 +14,7 @@
 # Move 5: B → A
 # Move 6: B → C
 # Move 7: A → C
-# move_count = 0   # To count total moves
+# move_count = 0   # To count total moves 
 
 def hanoi(n, source, auxiliary, destination):
     global move_count

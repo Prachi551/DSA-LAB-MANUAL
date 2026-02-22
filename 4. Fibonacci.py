@@ -12,7 +12,7 @@
 # Therefore, it becomes inefficient.
 
 # Naive Fibonacci
-naive_calls = 0
+naive_calls = 0 
 
 def fib_naive(n):
     global naive_calls

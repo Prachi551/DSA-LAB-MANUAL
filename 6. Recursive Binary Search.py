@@ -10,7 +10,7 @@
 # Space Complexity
 # O(log n)
 
-def binary_search(arr, key, low, high):
+def binary_search(arr, key, low, high): 
 
     # Base Case: element not found
     if low > high:

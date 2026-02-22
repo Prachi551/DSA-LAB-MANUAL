@@ -1,3 +1,10 @@
+# EXPERIMENT 1:  Stack ADT (Design + Use)
+# “Stack is a linear data structure that follows LIFO (Last In First Out).”
+# LIFO means Last In First Out. The element inserted last is removed first.
+# 3. Time Complexity
+# Push operation → O(1)
+# Pop operation → O(1)
+
 class StackADT:
     def __init__(self):
 

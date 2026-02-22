@@ -12,7 +12,7 @@
 # A single loop runs n times.
 # Time Complexity = O(n)
 
-# 4. Nested Loop
+# 4. Nested Loop 
 
 # Two loops each running n times.
 # Total operations = n × n
