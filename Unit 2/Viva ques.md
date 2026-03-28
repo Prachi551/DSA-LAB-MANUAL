@@ -136,8 +136,7 @@ Hence, deletion is easier & faster than SLL
 
 Experiment - 6
 1. Why stack is ideal here?
-
-👉 Stack follows LIFO (Last In First Out)
+Stack follows LIFO (Last In First Out)
 In parentheses checking:
 Last opened bracket must be closed first
 Example:
